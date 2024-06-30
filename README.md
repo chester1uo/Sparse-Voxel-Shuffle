@@ -10,6 +10,8 @@ Example
 
 ## TODO:
 (1) Support different layout on voxels.
+
 (2) Support using CUDA in backend imeplement for better efficient.
+
 (3) Integrated with Spconv Project.
 
